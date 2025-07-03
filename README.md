@@ -43,4 +43,4 @@ It includes text content, images, tables, audio and video players all styled wit
 - Build confidence with basic web development workflow
 
 
-Created as part of my learning and internship assignment.
+*Created as part of my learning and internship assignment.
