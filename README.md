@@ -1,4 +1,4 @@
-## basic-html-website
+## Basic HTML- CSS website
 
 A practice project built to learn and demonstrate basic HTML and CSS usage.
 
@@ -18,7 +18,7 @@ It includes text content, images, tables, audio and video players all styled wit
 - Clean, minimal CSS design
 
 
-## Tools Used
+## Technology Used
 
 - HTML for structure
 - CSS for styling
@@ -42,5 +42,9 @@ It includes text content, images, tables, audio and video players all styled wit
 - Apply simple CSS for layout and styling
 - Build confidence with basic web development workflow
 
+## output of website
+![output1](https://github.com/user-attachments/assets/6a62cb26-a31c-4897-916e-55463a01f84c)
+![output2](https://github.com/user-attachments/assets/80822e50-2b04-4a5e-9ab4-6740764c777a)
+![output](https://github.com/user-attachments/assets/d9be2f69-5484-4d78-bb6a-35a0eb1dbdba)
 
-*Created as part of my learning and internship assignment.
+## Created as part of my learning and internship assignment.
